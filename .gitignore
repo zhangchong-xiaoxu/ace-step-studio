@@ -1,0 +1,28 @@
+# Generated audio, renders, and release artifacts
+output/
+raw/
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+
+# ACE-Step & HuggingFace temporary caches
+.cache/
+gradio_outputs/
+acestep_output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# OS & Secrets
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

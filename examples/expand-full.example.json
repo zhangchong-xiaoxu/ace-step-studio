@@ -1,0 +1,33 @@
+{
+  "id": "neon-sky-full",
+  "title": "Neon Sky",
+  "artist": "Your Artist Name",
+  "base_demo_id": "en3-neon-sky",
+  "base_wav": "output/demos/en3-neon-sky/en3-neon-sky.wav",
+  "base_lm_json": "output/demos/en3-neon-sky/lm.json",
+  "bpm": 118,
+  "keyscale": "D minor",
+  "timesignature": "4",
+  "vocal_language": "en",
+  "prefix_codes_count": 218,
+  "crossfade_start_sec": 42.8,
+  "crossfade_end_sec": 43.6,
+  "target_duration": 126,
+  "render_seed": 20261163,
+  "candidate_seeds": [20261171, 20261175, 20261179],
+  "full_caption": "Anthemic 80s-inspired Synthwave and modern Outrun Electropop at 118 BPM in D minor. Bright soaring solo female vocals with crystal-clear English pronunciation and uplifting energy. Punchy retro drum machine kick, classic gated reverb snare, driving sixteenth-note octave synth bass, shimmering Juno-style chorus pads and an unforgettable brassy analog synth lead hook. Opens on an immediate driving synth arpeggio hook, flows through Verse 1 and double Chorus 1 into an energetic analog synth lead instrumental interlude, followed by a tight melodic Verse 2, a soaring Chorus, a rising two-line Bridge, an explosive final Chorus with lush harmonies, and a clean resolving synthwave outro. Keep the lead vocal upfront and articulate.",
+  "full_lyrics": "[Instrumental]\n\n[Verse]\nSilver circuits start to glow\nLeave the heavy doubts behind\n[Chorus]\nUnderneath the neon sky\nTurn the volume up tonight\nWe are running fast and high\nChasing every streak of light\n[Chorus]\nUnderneath the neon sky\nLet the wild ideas fly\nNothing left to hold us back\n[Instrumental]\n\n[Verse 2]\nMidnight highway wide and clear\nEvery shadow disappears\nStatic fading in the wind\nFeel the future pull us in\n[Chorus]\nUnderneath the neon sky\nTurn the volume up tonight\nWe are running fast and high\nChasing every streak of light\n[Bridge]\nZero gravity tonight\nEvery spark becomes a light\n[Chorus]\nUnderneath the neon sky\nTurn the volume up tonight\nLet the wild ideas fly\nUnderneath the neon sky\n[Instrumental]",
+  "bgm_b_track": {
+    "id": "synthwave-video-bgm",
+    "title": "Neon_Horizon_BGM",
+    "bpm": 116,
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "vocal_language": "en",
+    "duration": 64,
+    "stinger_seconds": 6.2,
+    "seed": 20261188,
+    "caption": "Clean modern 80s Synthwave and Outrun electronic instrumental at 116 BPM in A minor, pure instrumental with zero vocals, zero voice chops. Starts immediately on beat one with a catchy bright analog synth brass hook and driving sixteenth-note octave bass arpeggio for the first eight bars, transitions into a smooth focused groove section with warm pulsing synth bass, crisp gated snare and airy analog pads that leave clean midrange space for spoken narration, then rises back into an uplifting bright synth melody finale with a clean musical resolution.",
+    "lyrics": "[Instrumental]"
+  }
+}

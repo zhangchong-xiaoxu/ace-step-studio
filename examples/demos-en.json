@@ -1,0 +1,45 @@
+{
+  "batch": "english-electronic-hooks-45s",
+  "purpose": "Three differentiated 45s English electronic/groove chorus demos avoiding the Tech-House vocal-drop trap.",
+  "demos": [
+    {
+      "id": "en1-turn-it-on",
+      "title": "Turn It On",
+      "direction": "Melodic House Pop, 124 BPM, C minor, cool female hook vocal, -on/-one rhyme.",
+      "caption": "Catchy Melodic House Pop and upbeat Dance-Pop at 124 BPM in C minor with an immediate vocal chorus hook from beat one. Crisp cool solo female vocals singing clearly upfront through the opening chorus, full melodic verse and final chorus, no long instrumental drop. Punchy four-on-the-floor kick, warm groovy synth bassline, bright plucky house piano chords and crisp hi-hats. Infectious short-phrase earworm chorus, clean modern mix with clear English diction.",
+      "lyrics": "[Chorus]\nTurn it on, turn it on right now\nFeel the spark light up the crowd\nStep by step we figure how\nTurn it on, turn it on right now\n[Verse]\nQuiet room and glowing screen\nSharpest focus I have seen\nEvery line falls into place\nMoving at our steady pace\n[Chorus]\nTurn it on, turn it on right now\nFeel the spark light up the crowd\nNothing slows the rhythm down\nTurn it on, turn it on right now",
+      "duration": 45,
+      "bpm": 124,
+      "keyscale": "C minor",
+      "timesignature": "4",
+      "vocal_language": "en",
+      "seed": 20261165
+    },
+    {
+      "id": "en2-right-on-time",
+      "title": "Right On Time",
+      "direction": "Indie Electro-Funk / Nu-Disco, 114 BPM, G major, relaxed male groove vocal, -ai diphthong rhyme.",
+      "caption": "Groovy Indie Electro-Funk and sunlit Nu-Disco Pop at 114 BPM in G major, starting right on the chorus hook with zero slow intro. Smooth confident solo male vocals with crisp English articulation and effortless bounce. Elastic electric bassline, tight dry funk drum groove, clean rhythmic guitar chops and warm analog synth brass accents. Sings clearly through opening chorus, tight melodic verse and final chorus.",
+      "lyrics": "[Chorus]\nRight on time, we are right on time\nEvery piece begins to shine\nKeep the rhythm on the line\nRight on time, we are right on time\n[Verse]\nMorning coffee in my hand\nSimple plan at my command\nSmall ideas start to grow\nWatch the steady current flow\n[Chorus]\nRight on time, we are right on time\nEvery piece begins to shine\nLeave the heavy noise behind\nRight on time, we are right on time",
+      "duration": 45,
+      "bpm": 114,
+      "keyscale": "G major",
+      "timesignature": "4",
+      "vocal_language": "en",
+      "seed": 20261162
+    },
+    {
+      "id": "en3-neon-sky",
+      "title": "Neon Sky",
+      "direction": "Melodic Synthwave / Outrun Pop, 118 BPM, D minor, soaring female synth-pop vocal, -ai/-ait rhyme.",
+      "caption": "Anthemic 80s-inspired Melodic Synthwave and Outrun Electropop at 118 BPM in D minor. Bright soaring solo female vocals with crystal-clear English pronunciation and uplifting energy. Punchy retro drum machine kick, classic gated reverb snare, driving sixteenth-note octave synth bass, shimmering Juno chorus pads and brassy analog synth lead hook. Immediate synth hook into verse and double chorus, vocals upfront throughout.",
+      "lyrics": "[Verse]\nCity sleeping down below\nSilver circuits start to glow\nLeave the heavy doubts behind\n[Chorus]\nUnderneath the neon sky\nTurn the volume up tonight\nWe are running fast and high\nChasing every streak of light\n[Chorus]\nUnderneath the neon sky\nLet the wild ideas fly\nNothing left to hold us back",
+      "duration": 45,
+      "bpm": 118,
+      "keyscale": "D minor",
+      "timesignature": "4",
+      "vocal_language": "en",
+      "seed": 20261163
+    }
+  ]
+}

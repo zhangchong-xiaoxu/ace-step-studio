@@ -1,0 +1,45 @@
+{
+  "batch": "mandarin-catchy-hooks-45s",
+  "purpose": "Three differentiated 45s Mandarin chorus demos (0-2s immediate hook, open vowel rhymes) for human blind-listening selection.",
+  "demos": [
+    {
+      "id": "demo1-disco-bug",
+      "title": "再改一版就好",
+      "direction": "Retro Nu-Disco / Funk Pop, 122 BPM, F major, slap bass + muted funk guitar straight into chorus, open -ao rhyme.",
+      "caption": "Upbeat catchy Mandarin Nu-Disco and Funk Pop anthem with instant hook from the very first beat, zero slow intro. Bright energetic solo male vocals with crisp rhythmic Mandarin diction and playful smile in the voice. Bouncy slap bass groove, tight four-on-the-floor disco kick, snappy clap on two and four, funky muted rhythm guitar strums, punchy retro synth brass stabs and sparkling clavinet. Starts immediately with an infectious earworm chorus melody, followed by a tight groovy verse and a bigger final chorus with gang vocal shouts on the downbeat. Keep the lead vocal clearly in front of the instruments, danceable and unforgettable, no spoken narration.",
+      "lyrics": "[Chorus]\n再改一版 再改一版就好\n咖啡续满 键盘敲出火苗\n需求在变 灵感还在狂飙\n今夜通关 明天准时睡饱\n[Verse]\n屏幕亮着 第十七个窗口\n光标闪烁 像在对我招手\n删掉重来 也没什么大不了\n跑通那刻 烦恼全都溜走\n[Chorus]\n再改一版 再改一版就好\n咖啡续满 键盘敲出火苗\n需求在变 灵感还在狂飙\n今夜通关 嘴角往上扬起笑",
+      "duration": 45,
+      "bpm": 122,
+      "keyscale": "F major",
+      "timesignature": "4",
+      "vocal_language": "zh",
+      "seed": 20261131
+    },
+    {
+      "id": "demo2-cyber-go",
+      "title": "跑起来才算数",
+      "direction": "High-energy Electro-Pop, 126 BPM, E minor, crisp female vocal, 2-bar plucky synth hook into verse & double chorus, open -a rhyme.",
+      "caption": "High-energy catchy Mandarin Electro-Pop and melodic synth bounce with an immediate memorable plucky synthesizer riff in the first second. Crisp bright solo female vocals with clear confident Mandarin articulation. Punchy electronic kick drum, tight sidechained synth bass, infectious plucky lead synth hook, crisp hi-hats and uplifting supersaw chords in the chorus. Short two-bar synth hook launches straight into a tight verse and an explosive earworm chorus with rhythmic vocal repetition. Energetic, modern tech-creator vibe, clean mix with vocals upfront, no rap, no spoken words.",
+      "lyrics": "[Verse]\n草稿写满 不如按下回车\n屏幕微光 把黑夜都划破\n不用彩排 节奏已经合拍\n[Chorus]\n别等风来 现在就出发\n一行一行 把想法点亮它\n跑起来吧 让结果去说话\n心跳加速 没什么好害怕\n[Chorus]\n别等风来 现在就出发\n一行一行 把想法点亮它\n把不可能 变成眼前的画",
+      "duration": 45,
+      "bpm": 126,
+      "keyscale": "E minor",
+      "timesignature": "4",
+      "vocal_language": "zh",
+      "seed": 20261132
+    },
+    {
+      "id": "demo3-citypop-sunny",
+      "title": "一人份晴朗",
+      "direction": "Breezy City Pop / Jazz-Funk, 108 BPM, D major, warm Rhodes + bouncy bass 0s chorus entry, resonant -ang rhyme.",
+      "caption": "Breezy infectious Mandarin City Pop and groovy Jazz-Funk with an instant catchy chorus hook right from bar one. Warm relaxed solo male vocals with crystal-clear Mandarin diction and effortless charm. Warm Fender Rhodes electric piano chords, melodic bouncy electric bassline, crisp snare with finger snaps, clean funky guitar licks and airy vintage synth bells. Opens immediately on a memorable sing-along chorus with rhythmic reduplication, flows into a sunlit relaxed verse and returns to a lush harmonized chorus. Uplifting, cozy and highly replayable, keep vocals clear in front of the band.",
+      "lyrics": "[Chorus]\n嘀嗒嘀嗒 时间不慌不忙\n泡杯热茶 把窗帘拉向太阳\n一人份的 晴朗刚刚好暖\n自己掌舵 日子闪闪发光\n[Verse]\n没有会议 也没有打卡声响\n写完这行 去楼下吹吹风凉\n小小房间 装着大大梦想\n[Chorus]\n嘀嗒嘀嗒 时间不慌不忙\n自己掌舵 日子闪闪发光\n自由自在 把喜欢写成篇章",
+      "duration": 45,
+      "bpm": 108,
+      "keyscale": "D major",
+      "timesignature": "4",
+      "vocal_language": "zh",
+      "seed": 20261133
+    }
+  ]
+}

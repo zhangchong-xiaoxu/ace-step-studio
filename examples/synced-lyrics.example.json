@@ -1,0 +1,31 @@
+{
+  "take": "takeA-s20261179",
+  "seed": 20261179,
+  "duration_sec": 123.2,
+  "notes": "Verified against actual sung audio. Unsung intro lines and section tags ([Verse], [Chorus]) are omitted.",
+  "lines": [
+    { "t": 6.92, "line": "Silver circuits start to glow" },
+    { "t": 10.96, "line": "Leave the heavy doubts behind" },
+    { "t": 15.24, "line": "Underneath the neon sky" },
+    { "t": 19.24, "line": "Turn the volume up tonight" },
+    { "t": 23.32, "line": "We are running fast and high" },
+    { "t": 27.36, "line": "Chasing every streak of light" },
+    { "t": 31.48, "line": "Underneath the neon sky" },
+    { "t": 35.48, "line": "Let the wild ideas fly" },
+    { "t": 39.52, "line": "Nothing left to hold us back" },
+    { "t": 47.68, "line": "Midnight highway wide and clear" },
+    { "t": 51.80, "line": "Every shadow disappears" },
+    { "t": 55.88, "line": "Static fading in the wind" },
+    { "t": 59.88, "line": "Feel the future pull us in" },
+    { "t": 64.04, "line": "Underneath the neon sky" },
+    { "t": 68.04, "line": "Turn the volume up tonight" },
+    { "t": 72.12, "line": "We are running fast and high" },
+    { "t": 76.16, "line": "Chasing every streak of light" },
+    { "t": 80.24, "line": "Zero gravity tonight" },
+    { "t": 84.32, "line": "Every spark becomes a light" },
+    { "t": 88.44, "line": "Underneath the neon sky" },
+    { "t": 92.44, "line": "Turn the volume up tonight" },
+    { "t": 96.48, "line": "Let the wild ideas fly" },
+    { "t": 100.60, "line": "Underneath the neon sky" }
+  ]
+}
